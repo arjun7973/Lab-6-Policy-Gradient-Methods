@@ -1,5 +1,5 @@
 # Lab 6 - Reinforcement Learning  
-Policy Gradient Methods (REINFORCE)
+Policy Gradient Methods: REINFORCE (no baseline) and REINFORCE (with baseline)
 
 The lab includes:
 
